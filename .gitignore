@@ -1,0 +1,40 @@
+# ============ Fotos e mídia ============
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
+*.png
+*.PNG
+*.tif
+*.tiff
+*.CR3
+*.XMP
+*.zip
+
+# ============ Dados/resultados gerados pelo pipeline ============
+*.csv
+*.kmz
+*.kml
+*.geojson
+*.gpx
+
+# ============ Ambiente Python ============
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.conda/
+.venv/
+venv/
+*.egg-info/
+
+# ============ IDE / editor ============
+.spyderproject
+.spyproject
+.vscode/
+
+# ============ Sistema ============
+.DS_Store
+._.DS_Store
+Thumbs.db
+desktop.ini
