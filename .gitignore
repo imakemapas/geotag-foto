@@ -17,6 +17,7 @@
 *.kml
 *.geojson
 *.gpx
+*.xls
 
 # ============ Ambiente Python ============
 __pycache__/
